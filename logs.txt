@@ -1,12 +1,6 @@
 
---- Log Entry at 2024-12-29T18:38:08.990Z ---
+--- Log Entry at 2024-12-29T18:40:09.001Z ---
 Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
 Content:
 I have updated the file
-Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
-Content:
-I have updated the file
-this is a temp line
-Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
-Content:
-I have updated the file
+I am making this code to check
