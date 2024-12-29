@@ -21,3 +21,13 @@ this is my 3rd entry of the day
 --- Log Entry at 2024-12-29T19:47:28.671Z ---
 Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: Modified line 4 in c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text: this is my 4th entry
 Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: Modified line 5 in c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text: this should be seperate than others
+
+
+--- Log Entry at 2024-12-29T19:51:33.400Z ---
+Action: Modified line 1, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: this is now working 
+Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: I have also deleted few items this time
+Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: I have also deleted few items this time
+Action: Modified line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: this is a temp line
+Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: I have also deleted few items this time
+Action: Modified line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: this is now working 
+I have also deleted few items this time
