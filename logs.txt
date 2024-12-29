@@ -1,1 +1,5 @@
-logs.txt
+undefined
+
+--- Log Entry at 2024-12-29T19:13:29.008Z ---
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
