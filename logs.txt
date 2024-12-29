@@ -2,3 +2,7 @@ undefined
 
 --- Log Entry at 2024-12-29T19:17:01.585Z ---
 Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: test entry 1
+
+
+--- Log Entry at 2024-12-29T19:34:43.080Z ---
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: this is another entry
