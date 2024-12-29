@@ -89,3 +89,17 @@ why is this not in my logs
 --- Log Entry at 2024-12-29T20:10:19.966Z ---
 Action: Modified line 1, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
 Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+
+
+--- Log Entry at 2024-12-29T20:11:19.968Z ---
+Action: Modified line 1, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: This is the first sentence.
+Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: Here comes the second sentence.
+Action: Modified line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: Now we have the third sentence.
+Action: Modified line 4, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: This is the fourth sentence in the file.
+Action: Modified line 5, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: Let's add the fifth sentence here.
+Action: Modified line 6, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: The sixth sentence is now written.
+Action: Modified line 7, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: We are now at the seventh sentence.
+Action: Modified line 8, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: This is the eighth sentence in the file.
+Action: Modified line 9, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: Here is the ninth sentence.
+Action: Modified line 10, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: Finally, this is the tenth sentence.
+Action: Modified line 11, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: I have added a line
