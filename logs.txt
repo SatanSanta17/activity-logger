@@ -99,3 +99,123 @@ Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\te
 Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
 Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
 Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+
+
+--- Log Entry at 2024-12-29T18:49:46.965Z ---
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Content:
+I have updated the file
+I have a lot to say but i am not typing it here
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Content:
+I have updated the file
+I have a lot to say but i am not typing it here
+
+
+
+--- Log Entry at 2024-12-29T18:49:46.965Z ---
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Content:
+I have updated the file
+I have a lot to say but i am not typing it here
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Content:
+I have updated the file
+I have a lot to say but i am not typing it here
+
+
+
+--- Log Entry at 2024-12-29T18:52:44.416Z ---
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+
+
+--- Log Entry at 2024-12-29T18:53:44.422Z ---
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
