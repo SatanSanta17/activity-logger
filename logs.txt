@@ -8,3 +8,10 @@ Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtens
 --- Log Entry at 2024-12-29T20:03:24.381Z ---
 Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: 
 Action: Modified line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: **LINE WAS DELETED**
+
+
+--- Log Entry at 2024-12-29T20:04:24.390Z ---
+Action: Modified line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: 
+Action: Modified line 4, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: 
+Action: Modified line 5, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: 
+Action: Modified line 6, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: **LINE WAS DELETED**
