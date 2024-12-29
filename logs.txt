@@ -84,3 +84,8 @@ Action: Modified line 7, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtens
 why is this not in my logs
 Action: Modified line 8, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: this my change in one file
 why is this not in my logs
+
+
+--- Log Entry at 2024-12-29T20:10:19.966Z ---
+Action: Modified line 1, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
