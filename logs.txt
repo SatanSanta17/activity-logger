@@ -103,3 +103,30 @@ Action: Modified line 8, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtens
 Action: Modified line 9, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: Here is the ninth sentence.
 Action: Modified line 10, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: Finally, this is the tenth sentence.
 Action: Modified line 11, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: I have added a line
+
+
+--- Log Entry at 2024-12-29T20:12:19.982Z ---
+Action: Modified line 11, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: I have added a line
+Action: Modified line 12, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: why are all my changes recordwed
+Action: Modified line 1, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: why am i seeing two lines changed
+Action: Modified line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
+Action: Modified line 4, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
+Action: Modified line 5, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
+Action: Modified line 6, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
+Action: Modified line 7, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
+Action: Modified line 8, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
+Action: Modified line 9, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
+Action: Modified line 10, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
+Action: Modified line 11, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
+Action: Modified line 12, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
+why am i seeing two lines changed
