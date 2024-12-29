@@ -1,6 +1,11 @@
 
---- Log Entry at 2024-12-29T18:40:09.001Z ---
+--- Log Entry at 2024-12-29T18:49:46.965Z ---
 Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
 Content:
 I have updated the file
-I am making this code to check
+I have a lot to say but i am not typing it here
+Action: modified, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text
+Content:
+I have updated the file
+I have a lot to say but i am not typing it here
+
