@@ -18,3 +18,8 @@ Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtens
 Action: Added line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: this is another line
 Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: From: this is a new line ; To: this is a new line
 Action: Deleted line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: this is another line
+
+
+--- Log Entry at 2024-12-30T13:52:30.273Z ---
+Action: Deleted line 1, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: This is one line 
+Action: Deleted line 1, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test, Content: this is created and tracked
