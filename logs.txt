@@ -54,3 +54,26 @@ This file is created to test the functionality of VSCode extensions.
 change in file
 st the functionality of VSCode extensions.
 
+
+
+--- Log Entry at 12/30/2024, 8:05:21 PM ---
+added, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\testfile2: 
+Changes: 
+Modified lines, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\testfile2: 
+Changes: Modified from line 1 to 1
+**FROM**
+this is a new test file
+**TO**
+this is a new test filethis will save
+
+Added lines, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\testfile2: 
+Changes: Added from line 2 to 2
+new line
+
+Modified lines, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\testfile2: 
+Changes: Modified from line 1 to 1
+**FROM**
+this is a new test filethis will save
+**TO**
+this is a new test filethis will save
+
