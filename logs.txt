@@ -1,7 +1,0 @@
-
-
-
---- Log Entry at 2024-12-30T13:43:18.961Z ---
-Action: Modified file, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: This is one line 
-this is another line
-I deleted third line and added this 
