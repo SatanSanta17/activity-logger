@@ -3,3 +3,7 @@
 --- Log Entry at 2024-12-30T13:45:45.436Z ---
 Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: From: this is another line ; To: this is another line
 Action: Deleted line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: I deleted third line and added this 
+
+
+--- Log Entry at 2024-12-30T13:46:45.438Z ---
+Action: Deleted line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: this is another line
