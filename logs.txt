@@ -1,0 +1,9 @@
+
+
+--- Log Entry at 12/30/2024, 8:53:45 PM ---
+Added, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test
+Deleted lines, file c:\Users\Burhanuddin Chital\AppData\Roaming\Code\User\settings.json
+Modified lines, file c:\Users\Burhanuddin Chital\AppData\Roaming\Code\User\settings.json
+Deleted lines, file c:\Users\Burhanuddin Chital\AppData\Roaming\Code\User\settings.json
+Modified lines, file c:\Users\Burhanuddin Chital\AppData\Roaming\Code\User\settings.json
+Deleted, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test
