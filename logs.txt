@@ -1,1 +1,8 @@
 
+
+
+--- Log Entry at 2024-12-30T12:35:16.427Z ---
+Action: deleted, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\MyFile.java, Content: 
+Action: added, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test, Content: 
+Action: Modified file, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test, Content: this is created and tracked
+Action: Modified file, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: 
