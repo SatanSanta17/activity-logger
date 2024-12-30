@@ -17,3 +17,19 @@ Deleted lines, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\tes
 Changes: Deleted from line 11 to 11
 Thank you for using this file for your testing purposes.
 
+
+
+--- Log Entry at 12/30/2024, 8:02:21 PM ---
+Deleted lines, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test: 
+Changes: Deleted from line 6 to 10
+This is a simple text file with no special formatting.
+Feel free to modify this file to suit your testing needs.
+Make sure to save the file after making any changes.
+You can also use this file to test other features of the editor.
+This file can be deleted after the testing is complete.
+
+Added lines, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test: 
+Changes: Added from line 6 to 7
+Here are two additional lines to extend the content of this file.
+These lines are added to further test the capabilities of the editor.
+
