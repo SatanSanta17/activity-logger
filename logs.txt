@@ -77,3 +77,8 @@ this is a new test filethis will save
 **TO**
 this is a new test filethis will save
 
+
+
+--- Log Entry at 12/30/2024, 8:07:21 PM ---
+deleted, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\testfile2: 
+Changes: 
