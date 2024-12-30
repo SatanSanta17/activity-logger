@@ -5,3 +5,8 @@ Modified line 1, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\t
 Added line 2, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test, Content: new line
 Modified line 1, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: From: this is a new file ; To: this is a new file
 Added line 2, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: new line in new file
+
+
+--- Log Entry at 12/30/2024, 7:29:00 PM ---
+Modified line 1, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: From: this is a new file ; To: this is a new file
+Deleted line 2, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: new line in new file
