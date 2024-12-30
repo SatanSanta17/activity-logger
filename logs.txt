@@ -11,3 +11,8 @@ Deleted, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_fold
 
 --- Log Entry at 12/30/2024, 9:01:24 PM ---
 Added lines, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test
+
+
+--- Log Entry at 12/30/2024, 9:06:40 PM ---
+Added, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_new
+Modified lines, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_new
