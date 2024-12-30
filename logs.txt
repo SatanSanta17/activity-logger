@@ -10,3 +10,10 @@ Added line 2, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\test
 --- Log Entry at 12/30/2024, 7:29:00 PM ---
 Modified line 1, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: From: this is a new file ; To: this is a new file
 Deleted line 2, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: new line in new file
+
+
+--- Log Entry at 12/30/2024, 8:01:21 PM ---
+Deleted lines, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test: 
+Changes: Deleted from line 11 to 11
+Thank you for using this file for your testing purposes.
+
