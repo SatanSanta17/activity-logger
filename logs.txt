@@ -62,3 +62,26 @@ another change
 **TO**
 another change
 
+
+
+--- Log Entry at 12/30/2024, 9:14:02 PM ---
+Modified, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test: 
+Changes: Added from line 5 to 8
+I hope this works as expected
+Let's see if it captures everything
+This is a test for the logger
+End of the test lines
+
+Modified, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test: 
+Changes: Modified from line 1 to 4
+**FROM**
+changes
+this is a new change
+another change
+ek aur change
+**TO**
+this is a new change
+I am adding this to test my activity logger
+infact i will keep typing to check 
+if it logs all my activities
+
