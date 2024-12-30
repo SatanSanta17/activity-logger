@@ -25,3 +25,40 @@ Added lines, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_
 --- Log Entry at 12/30/2024, 9:09:40 PM ---
 Added lines, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_new
 Modified lines, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_new
+
+
+--- Log Entry at 12/30/2024, 9:12:02 PM ---
+Deleted, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_new
+Modified, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test: 
+Changes: Added from line 2 to 2
+this is a new change
+
+Modified, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test: 
+Changes: Modified from line 1 to 1
+**FROM**
+changes
+**TO**
+changes
+
+Modified, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test: 
+Changes: Added from line 3 to 3
+another change
+
+Modified, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test: 
+Changes: Modified from line 2 to 2
+**FROM**
+this is a new change
+**TO**
+this is a new change
+
+Modified, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test: 
+Changes: Added from line 4 to 4
+ek aur change
+
+Modified, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test: 
+Changes: Modified from line 3 to 3
+**FROM**
+another change
+**TO**
+another change
+
