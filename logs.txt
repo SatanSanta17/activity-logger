@@ -33,3 +33,24 @@ Changes: Added from line 6 to 7
 Here are two additional lines to extend the content of this file.
 These lines are added to further test the capabilities of the editor.
 
+
+
+--- Log Entry at 12/30/2024, 8:03:21 PM ---
+Modified lines, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test: 
+Changes: Modified from line 6 to 7
+**FROM**
+Here are two additional lines to extend the content of this file.
+These lines are added to further test the capabilities of the editor.
+**TO**
+Here are two additional lines to extend the content of this file
+this is a new line
+
+Modified lines, in file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test: 
+Changes: Modified from line 1 to 2
+**FROM**
+this is a new file
+This file is created to test the functionality of VSCode extensions.
+**TO**
+change in file
+st the functionality of VSCode extensions.
+
