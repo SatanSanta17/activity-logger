@@ -130,3 +130,9 @@ Action: Modified line 11, File: c:\Users\Burhanuddin Chital\projects\VSCodeExten
 why am i seeing two lines changed
 Action: Modified line 12, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: what is wrong with this?
 why am i seeing two lines changed
+
+
+--- Log Entry at 2024-12-30T12:28:54.721Z ---
+Action: Modified file, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.text, Content: This is a new line
+Action: Modified file, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test_2.txt, Content: This is another file
+Action: Modified file, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\MyFile.java, Content: 
