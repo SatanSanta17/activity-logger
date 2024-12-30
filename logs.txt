@@ -6,3 +6,16 @@ Action: deleted, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\tes
 Action: added, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test, Content: 
 Action: Modified file, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test, Content: this is created and tracked
 Action: Modified file, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: 
+
+
+--- Log Entry at 2024-12-30T12:36:16.433Z ---
+Action: Modified file, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: This is one line 
+Action: Modified line 1, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: from This is one line  to This is one line 
+Action: Added line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: this is another line
+Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: from undefined to this is another line
+Action: Modified line 2, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: from this is another line to this is another line
+Action: Added line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: this is third line
+Action: Modified line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: from undefined to this is third line
+Action: Deleted line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: this is third line
+Action: Added line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: I deleted third line and added this 
+Action: Modified line 3, File: c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\new_test, Content: from  to I deleted third line and added this 
