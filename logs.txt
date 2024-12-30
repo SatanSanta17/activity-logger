@@ -7,3 +7,7 @@ Modified lines, file c:\Users\Burhanuddin Chital\AppData\Roaming\Code\User\setti
 Deleted lines, file c:\Users\Burhanuddin Chital\AppData\Roaming\Code\User\settings.json
 Modified lines, file c:\Users\Burhanuddin Chital\AppData\Roaming\Code\User\settings.json
 Deleted, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test
+
+
+--- Log Entry at 12/30/2024, 9:01:24 PM ---
+Added lines, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test
