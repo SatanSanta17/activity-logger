@@ -85,3 +85,8 @@ I am adding this to test my activity logger
 infact i will keep typing to check 
 if it logs all my activities
 
+
+
+--- Log Entry at 1/13/2025, 10:57:35 PM ---
+Deleted, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test
+Added, file c:\Users\Burhanuddin Chital\projects\VSCodeExtensions\testing_folder\test.py
